@@ -9,7 +9,7 @@ import com.first.service.userService;
 
 @Controller
 public class userController {
-	
+	//user controller
 	@Autowired
 	private userService service;
 
